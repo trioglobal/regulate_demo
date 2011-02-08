@@ -1,0 +1,11 @@
+== Welcome to the Regulate demo
+
+The goal of this project is giving people an easy way to test the Regulat project
+
+The Project github page
+https://github.com/trioglobal/regulate
+
+
+The sampel urls:
+http://localhost:3000/cms/admin/pages
+http://localhost:3000/cms/pages/ $id
